@@ -273,6 +273,7 @@ background-color: var(--accent-color);}
     text-decoration: none;
 }
 .work-box .title {
+    width: 322px;
     margin-top: 20px;
     margin-left: 24px;
     margin-bottom: 4px;
@@ -282,7 +283,7 @@ background-color: var(--accent-color);}
     line-height: 2;
     letter-spacing: 0.06em;}
 .work .text {
-    width: 370px;
+    width: 322px;
     margin-top: 0;
     margin-left: 24px;
     margin-bottom: 20px;
